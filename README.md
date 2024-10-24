@@ -42,11 +42,11 @@ This project is a **Movie Recommendation System** built using **Python**, **Stre
 
 ### 1. **User Interface: Movie Selection Screen**
 
-![Movie Selection Screen](https://github.com/your-username/movie-recommendation-system/blob/main/screenshots/movie-selection.png)
+![Movie Selection UI](https://github.com/vishal-singh22/recommand-system/blob/33f1e582d158b0cd063fd2b1525b7fe0ba088d28/select_movies.png)
 
 ### 2. **Movie Recommendations with Posters**
 
-![Movie Recommendations](https://github.com/your-username/movie-recommendation-system/blob/main/screenshots/recommendations-with-posters.png)
+![Movie Recommendations](https://github.com/vishal-singh22/recommand-system/blob/33f1e582d158b0cd063fd2b1525b7fe0ba088d28/show-poster.png)
 
 ## Dependencies
 
