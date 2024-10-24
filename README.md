@@ -38,6 +38,16 @@ This project is a **Movie Recommendation System** built using **Python**, **Stre
 4. **Interact with the UI**:
    - Select a movie from the dropdown menu, and click the "Movie Recommendation" button to see the recommended movies and their posters.
 
+## Screenshots
+
+### 1. **User Interface: Movie Selection Screen**
+
+![Movie Selection Screen](https://github.com/your-username/movie-recommendation-system/blob/main/screenshots/movie-selection.png)
+
+### 2. **Movie Recommendations with Posters**
+
+![Movie Recommendations](https://github.com/your-username/movie-recommendation-system/blob/main/screenshots/recommendations-with-posters.png)
+
 ## Dependencies
 
 - **Python 3.7+**
@@ -70,4 +80,3 @@ This project is a **Movie Recommendation System** built using **Python**, **Stre
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
